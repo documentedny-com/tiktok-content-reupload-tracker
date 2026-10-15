@@ -1,0 +1,11 @@
+deep-translator
+faster-whisper
+jupyterlab
+numpy
+pandas
+scikit-learn
+sentence-transformers
+torch
+tqdm
+yt-dlp
+
